@@ -1,3 +1,17 @@
+![image](https://github.com/4GeeksAcademy/excuse-generator-pillow3/assets/118123543/a73edc6f-5d20-45b4-9e3b-f78336c8779d)
+
+![image](https://github.com/4GeeksAcademy/excuse-generator-pillow3/assets/118123543/3a40ac14-a06e-47b5-8936-ae992c335067)
+
+
+
+
+
+
+
+
+
+
+
 # Hello World with Vanilla JS
 
 Start coding a JS/HTML/CSS website in 30 seconds by opening this template in [Codespaces](https://github.com/codespaces/new/?repo=4GeeksAcademy/vanillajs-hello) or [Gitpod](https://gitpod.io#https://github.com/4GeeksAcademy/vanillajs-hello.git).
